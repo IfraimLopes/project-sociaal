@@ -38,3 +38,11 @@ main {
   background-position: center center;
   background-size: 250px;
 }
+
+#tela {
+  position: relative;
+  top: 63px;
+  left: 20px;
+  width: 214px;
+  height: 378px;
+}
